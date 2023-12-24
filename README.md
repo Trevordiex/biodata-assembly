@@ -13,6 +13,7 @@ This program supports 5 operations which can be accessed from the menu
 
 ## Compile
 ``make``
+
 The program is compiled only for linux. To run on other platforms, edit the make file
 
 ## Usage
