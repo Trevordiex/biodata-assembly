@@ -78,8 +78,8 @@ save:
 
     mov eax,5
     mov ebx,filename
-    mov ecx,2
-    mov edx,0666
+    mov ecx, 0102o
+    mov edx,0666o
     int 80h
 
     push eax
